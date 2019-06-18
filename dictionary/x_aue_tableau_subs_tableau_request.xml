@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Tableau Request" max_length="40" name="x_aue_tableau_subs_tableau_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Request Type" max_length="40" name="request_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Tableau Desktop Request" sequence="0" value="tableau desktop request"/>
+                <element inactive_on_update="false" label="Tableau Publisher Access Request" sequence="1" value="tableau publisher access request"/>
+                <element inactive_on_update="false" label="Tableau Confidential Project Folder Access Request" sequence="2" value="tableau confidential project folder access request"/>
+                <element inactive_on_update="false" label="Tableau Data Source Request" sequence="3" value="tableau data source request"/>
+                <element inactive_on_update="false" label="New Tableau Project Folder Request" sequence="4" value="new tableau project folder request"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true" label="Subscription cost" max_length="20" name="u_currency_3" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Subscription Start Date" max_length="40" name="u_glide_date_4" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Subscription End Date" max_length="40" name="u_glide_date_5" type="glide_date"/>
+        <element label="Does this subscription require purchasing?" max_length="40" name="u_tableau_purchase_required" type="boolean"/>
+    </element>
+</database>

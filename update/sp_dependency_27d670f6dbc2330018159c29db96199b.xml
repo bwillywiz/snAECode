@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_dependency">
+    <sp_dependency action="INSERT_OR_UPDATE">
+        <module>angular-chart-js-2-x</module>
+        <name>Angular Chart JS 2.X</name>
+        <page_load>false</page_load>
+        <sp_portals/>
+        <sys_class_name>sp_dependency</sys_class_name>
+        <sys_created_by>williamsbr.local</sys_created_by>
+        <sys_created_on>2019-06-18 17:56:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>27d670f6dbc2330018159c29db96199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Angular Chart JS 2.X</sys_name>
+        <sys_package display_value="Tableau Subscriptions" source="x_aue_tableau_subs">412d88fedbc2330018159c29db961994</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tableau Subscriptions">412d88fedbc2330018159c29db961994</sys_scope>
+        <sys_update_name>sp_dependency_27d670f6dbc2330018159c29db96199b</sys_update_name>
+        <sys_updated_by>williamsbr.local</sys_updated_by>
+        <sys_updated_on>2019-06-18 17:56:32</sys_updated_on>
+    </sp_dependency>
+</record_update>

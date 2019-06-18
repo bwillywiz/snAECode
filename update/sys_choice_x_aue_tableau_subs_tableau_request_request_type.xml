@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="request_type" table="x_aue_tableau_subs_tableau_request" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tableau Desktop Request</label>
+            <language>en</language>
+            <name>x_aue_tableau_subs_tableau_request</name>
+            <sequence>0</sequence>
+            <sys_created_by>williamsbr.local</sys_created_by>
+            <sys_created_on>2019-06-18 15:47:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>eb8910badb8233004a1192a6db961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>williamsbr.local</sys_updated_by>
+            <sys_updated_on>2019-06-18 15:47:49</sys_updated_on>
+            <value>tableau desktop request</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tableau Publisher Access Request</label>
+            <language>en</language>
+            <name>x_aue_tableau_subs_tableau_request</name>
+            <sequence>1</sequence>
+            <sys_created_by>williamsbr.local</sys_created_by>
+            <sys_created_on>2019-06-18 15:47:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>a78910badb8233004a1192a6db961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>williamsbr.local</sys_updated_by>
+            <sys_updated_on>2019-06-18 15:47:49</sys_updated_on>
+            <value>tableau publisher access request</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tableau Confidential Project Folder Access Request</label>
+            <language>en</language>
+            <name>x_aue_tableau_subs_tableau_request</name>
+            <sequence>2</sequence>
+            <sys_created_by>williamsbr.local</sys_created_by>
+            <sys_created_on>2019-06-18 15:47:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6f8910badb8233004a1192a6db96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>williamsbr.local</sys_updated_by>
+            <sys_updated_on>2019-06-18 15:47:49</sys_updated_on>
+            <value>tableau confidential project folder access request</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tableau Data Source Request</label>
+            <language>en</language>
+            <name>x_aue_tableau_subs_tableau_request</name>
+            <sequence>3</sequence>
+            <sys_created_by>williamsbr.local</sys_created_by>
+            <sys_created_on>2019-06-18 15:47:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>278910badb8233004a1192a6db96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>williamsbr.local</sys_updated_by>
+            <sys_updated_on>2019-06-18 15:47:49</sys_updated_on>
+            <value>tableau data source request</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Tableau Project Folder Request</label>
+            <language>en</language>
+            <name>x_aue_tableau_subs_tableau_request</name>
+            <sequence>4</sequence>
+            <sys_created_by>williamsbr.local</sys_created_by>
+            <sys_created_on>2019-06-18 15:47:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>eb8910badb8233004a1192a6db96196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>williamsbr.local</sys_updated_by>
+            <sys_updated_on>2019-06-18 15:47:49</sys_updated_on>
+            <value>new tableau project folder request</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>request_type</element>
+            <name>x_aue_tableau_subs_tableau_request</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>williamsbr.local</sys_created_by>
+            <sys_created_on>2019-06-18 15:47:49</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>678910badb8233004a1192a6db961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>request_type</sys_name>
+            <sys_package display_value="Tableau Subscriptions" source="x_aue_tableau_subs">412d88fedbc2330018159c29db961994</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Tableau Subscriptions">412d88fedbc2330018159c29db961994</sys_scope>
+            <sys_update_name>sys_choice_x_aue_tableau_subs_tableau_request_request_type</sys_update_name>
+            <sys_updated_by>williamsbr.local</sys_updated_by>
+            <sys_updated_on>2019-06-18 15:47:49</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
