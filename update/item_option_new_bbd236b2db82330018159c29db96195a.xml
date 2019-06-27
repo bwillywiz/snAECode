@@ -22,7 +22,7 @@
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
-        <include_none>false</include_none>
+        <include_none>true</include_none>
         <instructions/>
         <layout>normal</layout>
         <list_table/>
@@ -32,15 +32,15 @@
         <lookup_unique>false</lookup_unique>
         <lookup_value/>
         <macro/>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>select_one_or_more_tableau_subscriptions</name>
+        <name>tableau_subscription</name>
         <order>10</order>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
-        <question_text>Select one (1) or more Tableau Subscription(s)?</question_text>
+        <question_text>Do you need Tableau Desktop or Tableau Server Access</question_text>
         <read_roles/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
@@ -60,18 +60,18 @@
         <sys_created_on>2019-06-19 02:59:12</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>bbd236b2db82330018159c29db96195a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Select one (1) or more Tableau Subscription(s)?</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Do you need Tableau Desktop or Tableau Server Access</sys_name>
         <sys_package display_value="Tableau Subscriptions" source="x_aue_tableau_subs">412d88fedbc2330018159c29db961994</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Tableau Subscriptions">412d88fedbc2330018159c29db961994</sys_scope>
         <sys_update_name>item_option_new_bbd236b2db82330018159c29db96195a</sys_update_name>
         <sys_updated_by>williamsbr.local</sys_updated_by>
-        <sys_updated_on>2019-06-19 02:59:12</sys_updated_on>
+        <sys_updated_on>2019-06-27 20:49:08</sys_updated_on>
         <table/>
-        <tooltip/>
-        <type>11</type>
+        <tooltip>Please Select a Tableau Product</tooltip>
+        <type>5</type>
         <ui_page/>
         <use_dynamic_default>false</use_dynamic_default>
         <use_reference_qualifier>simple</use_reference_qualifier>

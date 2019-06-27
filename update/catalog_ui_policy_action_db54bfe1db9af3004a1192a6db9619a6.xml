@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Tableau Subscription Order Guide">b049aeb6db42330018159c29db961911</catalog_item>
+        <catalog_variable>IO:48288b3adbc2330018159c29db961912</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>williamsbr.local</sys_created_by>
+        <sys_created_on>2019-06-27 20:47:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>db54bfe1db9af3004a1192a6db9619a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>folder_access</sys_name>
+        <sys_package display_value="Tableau Subscriptions" source="x_aue_tableau_subs">412d88fedbc2330018159c29db961994</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Tableau Subscriptions">412d88fedbc2330018159c29db961994</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_db54bfe1db9af3004a1192a6db9619a6</sys_update_name>
+        <sys_updated_by>williamsbr.local</sys_updated_by>
+        <sys_updated_on>2019-06-27 20:47:46</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Handles if Tableau Server is Selected">0d147be1db9af3004a1192a6db961949</ui_policy>
+        <variable>folder_access</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

@@ -3,14 +3,15 @@
         <active>true</active>
         <availability>on_desktop</availability>
         <billable>false</billable>
-        <cascade>false</cascade>
+        <cascade>true</cascade>
         <category/>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan/>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
-        <description/>
+        <description><![CDATA[<p><strong><span style="font-size: 11pt; color: #ff0000;"><span style="font-size: 11.0pt;"><img style="align: baseline;" title="Tableau Subscription Request" src="sys_attachment.do?sys_id=e8bc4a07dbc2330018159c29db961952" alt="Tableau Subscription Request" width="301" height="70" align="baseline" border="0" hspace="-1" vspace="0" /></span></span></strong></p>
+<p>&nbsp;</p>]]></description>
         <entitlement_script/>
         <group/>
         <hide_sp>false</hide_sp>
@@ -49,7 +50,7 @@
         <recurring_price>0</recurring_price>
         <request_method/>
         <roles/>
-        <sc_catalogs/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4,64b813d1db45f340874198e7db9619ce</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <script/>
@@ -61,7 +62,7 @@
         <sys_created_on>2019-06-19 02:16:36</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>b049aeb6db42330018159c29db961911</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Tableau Subscription Order Guide</sys_name>
         <sys_package display_value="Tableau Subscriptions" source="x_aue_tableau_subs">412d88fedbc2330018159c29db961994</sys_package>
         <sys_policy/>
@@ -69,7 +70,7 @@
         <sys_scope display_value="Tableau Subscriptions">412d88fedbc2330018159c29db961994</sys_scope>
         <sys_update_name>sc_cat_item_guide_b049aeb6db42330018159c29db961911</sys_update_name>
         <sys_updated_by>williamsbr.local</sys_updated_by>
-        <sys_updated_on>2019-06-19 02:33:24</sys_updated_on>
+        <sys_updated_on>2019-06-27 17:15:56</sys_updated_on>
         <template/>
         <two_step>false</two_step>
         <type>item</type>
